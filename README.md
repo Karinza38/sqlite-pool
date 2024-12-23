@@ -1,4 +1,4 @@
-# sqlite-pool
+sqlite-pool
 
 The `@matteo.collina/sqlite-pool` library provides an asynchronous, safe and convenient
 API for querying SQLite databases in node.js. Built on top of
